@@ -14,7 +14,7 @@ headers = {
     'Accept-Language': 'zh-CN,zh;q=0.9',
     'Cache-Control': 'max-age=0',
     'Connection': 'keep-alive',
-    'Cookie': 'finger=edc6ecda; sid=cdcatg0v; fts=1533795648; UM_distinctid=1651d5842793c1-0391a73f981166-9393265-144000-1651d58427a52; im_notify_type_35929836=0; buvid3=3DDBC7FE-7A50-492C-8CF3-E0EA20D0E4BC27976infoc; rpdid=iwpksmmqwsdoskkqwlwpw; LIVE_BUVID=f26ec69bd8b8972f89c01495f3079c90; LIVE_BUVID__ckMd5=efc23ed09894f1b5',
+    //'Cookie': 
     'Host': 'api.bilibili.com',
     'Upgrade-Insecure-Requests': '1',
     'User-Agent': 'unknown'
